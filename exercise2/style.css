@@ -1,11 +1,13 @@
 header {
-    /* add css propeties for the top box here */
+    background-color: green;
 }
 
 main {
-    /* add css properties for the middle box here */
+    color: white;
+    background-color: blue;
 }
 
 footer {
-    /* add css properties for the bottom box here */
+    color: white;
+    background-color: red;
 }
