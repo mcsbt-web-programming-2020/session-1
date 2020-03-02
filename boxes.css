@@ -14,8 +14,6 @@ body {
 
 .first {
     background-color: #CCC;
-    position: sticky;
-    top: 0;
 }
 
 .second {
